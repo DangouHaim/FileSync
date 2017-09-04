@@ -1,0 +1,29 @@
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\bin\Debug\FileSync.exe.config
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\MainWindow.baml
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\MainWindow.g.cs
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\App.g.cs
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync_MarkupCompile.cache
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.g.resources
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.Properties.Resources.resources
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.csproj.GenerateResource.Cache
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\bin\Debug\FileSync.exe
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\bin\Debug\FileSync.pdb
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.exe
+c:\users\dangou\documents\visual studio 2015\Projects\FileSync\FileSync\obj\Debug\FileSync.pdb
+e:\work\projects\Visual Studio\FileSync\FileSync\bin\Debug\FileSync.exe.config
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.exe
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.pdb
+e:\work\projects\Visual Studio\FileSync\FileSync\bin\Debug\FileSync.exe
+e:\work\projects\Visual Studio\FileSync\FileSync\bin\Debug\FileSync.pdb
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\MainWindow.baml
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\MainWindow.g.cs
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\App.g.cs
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync_MarkupCompile.cache
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.g.resources
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.Properties.Resources.resources
+e:\work\projects\Visual Studio\FileSync\FileSync\obj\Debug\FileSync.csproj.GenerateResource.Cache
+e:\work\projects\FileSync\FileSync\bin\Debug\FileSync.exe.config
+e:\work\projects\FileSync\FileSync\obj\Debug\FileSync.exe
+e:\work\projects\FileSync\FileSync\obj\Debug\FileSync.pdb
